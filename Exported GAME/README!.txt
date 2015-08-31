@@ -1,0 +1,1 @@
+PRE Spustenie HRY java -jar Stones.jar
